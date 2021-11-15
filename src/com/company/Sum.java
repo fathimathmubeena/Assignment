@@ -5,8 +5,6 @@ package com.company;
 public class Sum {
     int i,n=20,sum=0;
 
-
-
     public static void main(String[] args) {
         Sum m = new Sum();
 
