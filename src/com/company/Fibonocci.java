@@ -5,9 +5,10 @@ public class Fibonocci {
 
     public static void main(String[] args) {
         // write your code here
-        fibonocci();
+        Fibonocci f = new Fibonocci();
+        f.fibonocci();
     }
-    public static void fibonocci(){
+    public void fibonocci(){
         System.out.print(num1+" "+num2);
 
         for(i=2;i<=n;i++){
